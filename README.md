@@ -1,9 +1,9 @@
 
-![Rdilshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rdilshan&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdilshan&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![sahan-chinthaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahan-chinthaka&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahan-chinthaka&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=Rdilshan&color=green)
+![](https://komarev.com/ghpvc/?username=sahan-chinthaka&color=green)
 <!--
-**Rdilshan/Rdilshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sahan-chinthaka/sahan-chinthaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
